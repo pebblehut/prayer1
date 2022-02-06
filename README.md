@@ -15,7 +15,7 @@ An easy way to set reminders to pray - adding in prayer requests to a database, 
 
 # Current state
 
-prayer.py - create prayer table
-prayer_test_list.csv - initial set of test prayers
-prayer-fetch.py - test fetching a few results
-prayer.db - sqlite3 database
+* prayer.py - create prayer table
+* prayer_test_list.csv - initial set of test prayers
+* prayer-fetch.py - test fetching a few results
+* prayer.db - sqlite3 database
